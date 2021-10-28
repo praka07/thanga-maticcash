@@ -105,7 +105,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   bottom: -8px;
   width: 80px;
   height: 2px;
-  background: #cec14d;
+  background: #F6EB00;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   transition: 0.3s;
@@ -388,11 +388,11 @@ button:focus {
   width: 36px;
   height: 36px;
   line-height: 36px;
-  color: #fff;
+  color: #000;
   font-size: 14px;
   text-align: center;
   border-radius: 30px;
-  background-color: #cec14d;
+  background-color: #F6EB00;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -570,7 +570,7 @@ button:focus {
 }
 
 .navbar-expand-md .navbar-toggler {
-    background: #b79136;
+    background:#F6EB00;
     border-radius: 0px;
     margin: 5px;
     cursor: pointer;
@@ -586,7 +586,7 @@ button:focus {
 
 
 .navbar-expand-md .navbar-toggler i {
-  color: #fff !important;
+  color: #000 !important;
 }
 
 .mainmenu-area .navbar-nav .nav-link {
